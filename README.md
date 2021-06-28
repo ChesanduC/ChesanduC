@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chesandu Charika
+- 👋 Hi, I’m Chesandu Charika and I'm 15 years old.
 - 👀 I’m interested in HTML5,CSS3,JavaScript,Python and in Java.
 - 🌱 I’m currently learning JavaScript and Python and Studying for GCE O/L.
 - 💞️ I'm looking to join to a university in the future.
