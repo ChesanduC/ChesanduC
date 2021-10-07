@@ -8,5 +8,4 @@
 ChesanduC/ChesanduC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="![image](https://user-images.githubusercontent.com/86313207/136467093-53b1041d-e1a9-4fc9-b915-47a0348656d4.png)
-" width="200px" height="200px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesign.ubuntu.com%2Fbrand%2Fubuntu-logo%2F&psig=AOvVaw1rVUM2_xyrWOkNdsnAOfpO&ust=1633729765696000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC4g-qjufMCFQAAAAAdAAAAABAg" width="200px" height="200px">
