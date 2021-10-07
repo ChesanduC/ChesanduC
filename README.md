@@ -8,4 +8,3 @@
 ChesanduC/ChesanduC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src=[image]"https://w7.pngwing.com/pngs/274/372/png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo.png" width="200px" height="200px">
