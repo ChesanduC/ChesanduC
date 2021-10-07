@@ -9,4 +9,4 @@ ChesanduC/ChesanduC is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <img src="![image](https://user-images.githubusercontent.com/86313207/136467093-53b1041d-e1a9-4fc9-b915-47a0348656d4.png)
-" width="20px" height="20px">
+" width="200px" height="200px">
