@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chesandu Charika and I'm 15 years old.
-- 👀 I’m interested in Web & Software Development,Networking and Cyber Security.
-- 🌱 I’m currently learning Python and Studying for GCE O/L.
-- 💞️ I'm looking to join to a university in the future.
+- 👀 I’m interested in Low-level Programming, Electronics, Android Development and Web Development
+- 🌱 I’m currently learning at school.
+- 💞️ I'm looking forward to join an university and get a Computer Engineering Degree.
 - 📫 Facebook-Chesandu Charika/ Twitter-@chesandu
 
 <!---
