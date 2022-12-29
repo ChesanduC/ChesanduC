@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chesandu Charika and I'm 15 years old.
-- 👀 I’m interested in Low-level Programming, Electronics, Android Development and Web Development
-- 🌱 I’m currently learning at school.
-- 💞️ I'm looking forward to join an university and get a Computer Engineering Degree.
+- 👋 Hi,I'm a 16 years old self-taught developer.
+- 👀 Mobile Developing and Low-level programming is me speciality.Argh!!!!
+- 🌱 I’m currently a high school student.
+- 💞️ Looking forward for a Computer Engineering Degree and my own startup.
 - 📫 Facebook-Chesandu Charika/ Twitter-@chesandu
 
 <!---
